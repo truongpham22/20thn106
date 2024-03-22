@@ -13,7 +13,9 @@ Xin chào! Tôi là Phạm Bá Trường, một sinh viên ngành Công nghệ t
 ### Kỹ Năng
 
 - ![Flutter Logo](https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png) Mobile App Development: Flutter, Dart
-- Cơ sở dữ liệu: ![MySQL Logo](https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/80px-MySQL.svg.png) MySQL, ![MongoDB Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/80px-MongoDB_Logo.svg.png) MongoDB
+- Cơ sở dữ liệu: 
+![MySQL Logo](https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/80px-MySQL.svg.png) MySQL, 
+![MongoDB Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/80px-MongoDB_Logo.svg.png) MongoDB
 - Công cụ phát triển: ![VS Code Logo](https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg) Visual Studio Code, Git, GitHub, IntelliJ IDEA
 
 ### Liên Hệ

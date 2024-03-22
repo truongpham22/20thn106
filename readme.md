@@ -8,7 +8,7 @@
 
 ### Giới Thiệu
 
-Xin chào! Tôi là Phạm Bá Trường, một sinh viên ngành Công nghệ thông tin tại Đại học Công nghệ thông tin TP.HCM. Tôi đang theo đuổi sự nghiên cứu và phát triển trong lĩnh vực phần mềm và công nghệ. Tôi đam mê học hỏi và luôn tìm kiếm cơ hội để áp dụng kiến thức của mình vào thực tế.
+Xin chào! Tôi là Phạm Bá Trường, một sinh viên ngành Công nghệ thông tin tại Đại học Công nghệ thông tin TP.HCM. Tôi đang theo đuổi sự nghiên cứu và phát triển trong lĩnh vực phần mềm và công nghệ. Tôi đam mê học hỏi và luôn tìm kiếm cơ hội để áp dụng kiến thức của mình.
 
 ### Kỹ Năng
 
